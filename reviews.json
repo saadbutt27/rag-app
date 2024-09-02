@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Alice Johnson",
+        "subject": "Calculus",
+        "stars": 5,
+        "review": "Dr. Johnson explains concepts very clearly and makes complex topics easy to understand."
+      },
+      {
+        "professor": "Dr. Michael Smith",
+        "subject": "Linear Algebra",
+        "stars": 4,
+        "review": "Great professor, but sometimes moves too fast through the material."
+      },
+      {
+        "professor": "Dr. Emily Davis",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "Lectures are okay, but the exams are much harder than the examples in class."
+      },
+      {
+        "professor": "Dr. Robert Brown",
+        "subject": "Differential Equations",
+        "stars": 2,
+        "review": "Dr. Brown is knowledgeable, but his teaching style is hard to follow."
+      },
+      {
+        "professor": "Dr. Linda White",
+        "subject": "Discrete Mathematics",
+        "stars": 5,
+        "review": "Excellent professor! Makes the class very engaging and fun."
+      },
+      {
+        "professor": "Dr. William Taylor",
+        "subject": "Abstract Algebra",
+        "stars": 3,
+        "review": "The course content is challenging, but Dr. Taylor is helpful during office hours."
+      },
+      {
+        "professor": "Dr. Patricia Moore",
+        "subject": "Topology",
+        "stars": 4,
+        "review": "Good professor, but sometimes her lectures can be a bit dry."
+      },
+      {
+        "professor": "Dr. Charles Anderson",
+        "subject": "Number Theory",
+        "stars": 5,
+        "review": "Dr. Anderson is passionate about the subject and makes every lecture interesting."
+      },
+      {
+        "professor": "Dr. Jennifer Thomas",
+        "subject": "Complex Analysis",
+        "stars": 3,
+        "review": "Decent professor, but the grading is harsh and the homework is tough."
+      },
+      {
+        "professor": "Dr. Christopher Jackson",
+        "subject": "Real Analysis",
+        "stars": 2,
+        "review": "Dr. Jackson's lectures are confusing, and it's hard to keep up with the pace."
+      },
+      {
+        "professor": "Dr. Elizabeth Lee",
+        "subject": "Probability Theory",
+        "stars": 5,
+        "review": "Amazing professor! She has a great way of making difficult concepts easy to grasp."
+      },
+      {
+        "professor": "Dr. Richard Martinez",
+        "subject": "Set Theory",
+        "stars": 4,
+        "review": "Dr. Martinez is thorough and patient, but the material is quite challenging."
+      },
+      {
+        "professor": "Dr. Maria Garcia",
+        "subject": "Mathematical Logic",
+        "stars": 3,
+        "review": "The course is interesting, but Dr. Garcia could be more approachable."
+      },
+      {
+        "professor": "Dr. Thomas Wilson",
+        "subject": "Graph Theory",
+        "stars": 4,
+        "review": "Great professor with a lot of knowledge, but the exams are very tough."
+      },
+      {
+        "professor": "Dr. Susan Martinez",
+        "subject": "Combinatorics",
+        "stars": 5,
+        "review": "Dr. Martinez is an excellent teacher and makes learning fun."
+      },
+      {
+        "professor": "Dr. James Harris",
+        "subject": "Partial Differential Equations",
+        "stars": 2,
+        "review": "The lectures are hard to follow, and the homework is overwhelming."
+      },
+      {
+        "professor": "Dr. Nancy Clark",
+        "subject": "Functional Analysis",
+        "stars": 4,
+        "review": "Dr. Clark is very clear in her explanations, but the subject matter is difficult."
+      },
+      {
+        "professor": "Dr. Barbara Rodriguez",
+        "subject": "Algebraic Geometry",
+        "stars": 3,
+        "review": "Interesting course, but Dr. Rodriguez's teaching style is not very engaging."
+      },
+      {
+        "professor": "Dr. Daniel Lewis",
+        "subject": "Game Theory",
+        "stars": 5,
+        "review": "Dr. Lewis is an outstanding professor who makes every lecture exciting."
+      },
+      {
+        "professor": "Dr. Karen Walker",
+        "subject": "Mathematical Optimization",
+        "stars": 4,
+        "review": "Very knowledgeable professor, but the course load is quite heavy."
+      }
+    ]
+  }
+  
